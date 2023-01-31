@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sqlitetask.h": "c",
+        "CalucationFile.H": "cpp"
+    }
+}
